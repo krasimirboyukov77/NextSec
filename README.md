@@ -1,0 +1,2 @@
+# NextSec
+NextJS Vulnerability scanner
